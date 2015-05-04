@@ -1,0 +1,14 @@
+2015-05-03 08:57:59.555 easydecoration[812:51503] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/senro/Library/Developer/CoreSimulator/Devices/E7E58538-CC8D-4C8A-80FD-3458C6088D70/data/Containers/Data/Application/0A747871-D010-4EB8-8CC1-2CBB3F5FC8BD/Library/Cookies/Cookies.binarycookies
+2015-05-03 08:58:00.515 easydecoration[812:51503] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-03 08:58:00.515 easydecoration[812:51503] Multi-tasking -> Device: YES, App: YES
+2015-05-03 08:58:00.565 easydecoration[812:51503] Unlimited access to network resources
+2015-05-03 08:58:00.596 easydecoration[812:51503] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-03 08:58:02.573 easydecoration[812:51503] Resetting plugins due to page load.
+2015-05-03 08:58:02.846 easydecoration[812:51503] Finished load of: file:///Users/senro/Library/Developer/CoreSimulator/Devices/E7E58538-CC8D-4C8A-80FD-3458C6088D70/data/Containers/Bundle/Application/67AFAAB7-8F53-4F85-986C-D43FFEA635F5/easydecoration.app/www/index.html
